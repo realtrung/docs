@@ -7,6 +7,11 @@ A reference architecture for a general-purpose **Cloudflare Workers monorepo**, 
 The goal is to let a coding agent **set up, develop, build, test, release, and deploy** without
 re-discovering conventions each time.
 
+> **Source of truth for implementation:** this document describes intent and conventions. For exact
+> implementations — scripts, configs, and file contents — consult the reference repo:
+> [`cloudflare/mcp-server-cloudflare`](https://github.com/cloudflare/mcp-server-cloudflare).
+> Summaries in this document are not specifications.
+
 ---
 
 ## Table of contents
